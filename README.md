@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+Before run this project... 
+You have to put your firebase .json file in Android/app folder.
 
 This project is a starting point for a Flutter application.
 
